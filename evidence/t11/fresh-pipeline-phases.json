@@ -1,0 +1,58 @@
+{
+  "force": true,
+  "runtime_rebuilt": true,
+  "runtime_fingerprint": "a84038af82da30eec175e631d7528eb8ab9d9770373d300b37f550cfeeb2d98f",
+  "bundle_cache": {
+    "hit": false,
+    "force": true,
+    "verification_seconds": 0.000001143000000183747
+  },
+  "phase_details": {
+    "startup": 0.00005215099999998074,
+    "source_discovery": 1.3822421210000002,
+    "retained_vite_build": 31.126265771,
+    "retained_asset_publication": 0.11897722899999644,
+    "publisher_compilation": 0.38764142100000026,
+    "content_process_startup": 7.367372776000003,
+    "worker_configuration": 0.020884695000000647
+  },
+  "phases": {
+    "bundle_verification": 0.000001143000000183747,
+    "retained_vite_build": 31.126253188,
+    "retained_asset_publication": 0.118947451,
+    "publisher_compilation": 0.3876107030000057,
+    "content_publication": 7.367353930999998,
+    "complete_pipeline": 40.403606725
+  },
+  "content_phases": {
+    "compatibility": 1.5919956199999998,
+    "markdown_projection": 1.8162251689999998,
+    "publication_preparation": 2.1970406809999994,
+    "nift_composition": 0.9538999280000007,
+    "output_verification_and_repair": 0.33718930700000055,
+    "complete_content_publication": 7.195809545
+  },
+  "content_details": {
+    "startup": 0.00003614100000000064,
+    "content_discovery": 0.019343572000000003,
+    "compatibility_process": 1.592206289,
+    "markdown_projection_process": 1.8164470060000002,
+    "projection_assets_and_revision": 1.9275453850000004,
+    "metadata_navigation": 0.09737526199999956,
+    "state_serialization": 0.17246434000000044,
+    "nift_composition": 0.9542961459999997,
+    "composition_verification": 0.3374234639999995,
+    "route_retirement": 0.24084064300000046,
+    "cache_serialization": 0.05722125599999981
+  },
+  "content_counts": {
+    "roots": 25,
+    "composed": 7578,
+    "outputs": 22780
+  },
+  "content_records": {
+    "hits": 0,
+    "misses": 7601,
+    "composition_repairs": 0
+  }
+}
