@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/svg-coordinates */
+function g(r,u,n,i){let h=r.getScreenCTM?.();if(!h){let e=r.getBoundingClientRect();return!e.width||!e.height?null:{x:(n-e.left)/e.width*u.width,y:(i-e.top)/e.height*u.height}}let t;try{t=h.inverse()}catch{return null}let o=t.a*n+t.c*i+t.e,s=t.b*n+t.d*i+t.f;return!Number.isFinite(o)||!Number.isFinite(s)?null:{x:o,y:s}}export{g as svgClientToScene};
+//# sourceMappingURL=svg-coordinates.mjs.map

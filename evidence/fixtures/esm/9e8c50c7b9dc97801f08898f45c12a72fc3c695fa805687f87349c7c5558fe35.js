@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/react/CanvasChart */
+"use client";import{jsx as e}from"react/jsx-runtime";import"react";import{canvasChartRenderer as t}from"../../canvas.mjs";import{RendererChartImplementation as n}from"./RendererChart.mjs";function f(r){return e(a,{...r})}function a(r){return e(n,{...r,renderer:t})}export{f as CanvasChart,a as CanvasChartImplementation};
+//# sourceMappingURL=CanvasChart.mjs.map

@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/resolved-layout-child */
+import{composeInitializedMarks as t}from"./mark-composite-internal.mjs";import{compositeChildMarkId as s}from"./mark-composite-internal.mjs";function l(o){if(o.resolveLayout)throw new TypeError(`Resolved layout cannot adopt child mark "${o.id}" because it has its own layout`);return{channels:o.channels,states:o.states,postDomain:o.postDomain,layoutLabels:o.layoutLabels,render:o.render}}function i(o,a){let e=t(o,a,{coordinates:"pixel",owner:"Resolved layout"});return{channels:e.channels,layoutLabels:e.layoutLabels,render:e.render}}var d=s;export{l as adoptResolvedChildMark,i as composeResolvedChildMarks,d as resolvedChildMarkId};
+//# sourceMappingURL=resolved-layout-child.mjs.map

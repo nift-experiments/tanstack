@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/transform/fold */
+import{toArray as c}from"../dist/transform-internal.mjs";function l(t,o){let s=c(t),r=o.as?.key??"key",e=o.as?.value??"value";return d(o.fields,r,e),s.flatMap((n,a)=>o.fields.map(f=>({...n,source:[n],sourceIndexes:[a],[r]:f,[e]:n[f]})))}function d(t,o,s){if(o===s)throw new TypeError("fold: output names must be distinct");for(let e of[o,s])if(e==="source"||e==="sourceIndexes")throw new TypeError(`fold: output name "${e}" is reserved`);let r=new Set;for(let e of t){if(r.has(e))throw new TypeError(`fold: duplicate field "${e}"`);r.add(e)}}export{l as fold};
+//# sourceMappingURL=fold.mjs.map

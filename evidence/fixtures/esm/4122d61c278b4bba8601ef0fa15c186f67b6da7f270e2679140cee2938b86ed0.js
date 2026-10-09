@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/markup-internal */
+function n(e){return String(Math.round(e*100)/100)}var t={"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"},u=/[&<>\u0000-\u0008\u000b\u000c\u000e-\u001f\ufffe\uffff]|\p{Cs}/gu;function r(e){return t[e]??"\uFFFD"}function c(e){return e.replace(u,r)}function a(e){return e.replace(u,r).replace(/"/g,t['"'])}export{a as escapeAttribute,c as escapeText,n as number};
+//# sourceMappingURL=markup-internal.mjs.map

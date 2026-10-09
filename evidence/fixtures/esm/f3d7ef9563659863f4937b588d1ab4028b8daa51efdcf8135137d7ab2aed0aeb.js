@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/runtime */
+import{createChartScene as n,defaultChartTheme as c}from"./scene.mjs";function p(e={}){let r={...c,...e.defaultTheme,palette:e.defaultTheme?.palette??c.palette};return{render(h,t,a){if(!o(h))return n(h,t,{...a,defaultTheme:r});let{chart:u,...f}=h,m=u({width:t.width,height:t.height,defaultTheme:r});return n({...m,...f},t,{...a,defaultTheme:r})},destroy(){}}}function o(e){return"chart"in e&&typeof e.chart=="function"}export{p as createChartRuntime,o as isResponsiveChartDefinition};
+//# sourceMappingURL=runtime.mjs.map

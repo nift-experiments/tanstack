@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/rect-radius-state-internal */
+function t(e){return e?.some(({style:n})=>{let r=n.radius;return typeof r=="function"||Array.isArray(r)})??!1}function o(e,n){return e===void 0?n?{cornerRadii:[0,0,0,0]}:{}:typeof e!="number"?{cornerRadii:e}:n?{cornerRadii:[e,e,e,e]}:{radius:e}}export{t as markStatesMayUseCornerRadii,o as resolveSceneRectRadius};
+//# sourceMappingURL=rect-radius-state-internal.mjs.map

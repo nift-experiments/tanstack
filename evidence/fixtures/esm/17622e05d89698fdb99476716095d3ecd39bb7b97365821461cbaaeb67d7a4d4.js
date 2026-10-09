@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/frame */
+import{createMark as n}from"./dist/mark.mjs";function c(e={}){return n(({markIndex:i})=>{let a=e.id??`frame-${i}`;return{id:a,channels:{},render:({chart:r,theme:d})=>{let t=Math.max(0,e.inset??0);return{nodes:[{kind:"group",key:a,className:"ts-chart__frame",ariaHidden:!0,children:[{kind:"rect",key:`${a}:rect`,x:r.x+t,y:r.y+t,width:Math.max(0,r.width-t*2),height:Math.max(0,r.height-t*2),radius:e.radius,style:{fill:e.fill??"none",fillOpacity:e.fillOpacity,stroke:e.stroke??d.foreground,strokeOpacity:e.strokeOpacity??.35,strokeWidth:e.strokeWidth??1}}]}]}}}},e.motion,e.renderer)}export{c as frame};
+//# sourceMappingURL=frame.mjs.map

@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/mapped-spacing-internal */
+import{isChartValue as m}from"./mark.mjs";function a(i,r){let e=[...new Set(r.filter(m).map(i.map).filter(t=>Number.isFinite(t)))].sort((t,o)=>t-o),n=1/0;for(let t=1;t<e.length;t+=1){let o=e[t]-e[t-1];o>0&&(n=Math.min(n,o))}return Number.isFinite(n)?n:void 0}function p(i,r,e=1){let n=a(i,i.domain);if(n!==void 0)return n;let t=r/Math.max(1,e);return i.bandwidth>0?Math.min(i.bandwidth,t):t}function u(i){return i?.type==="band"||i?.type==="point"}export{u as isResolvedCategoryScale,a as minimumMappedSpacing,p as resolvedCategoryStep};
+//# sourceMappingURL=mapped-spacing-internal.mjs.map

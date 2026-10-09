@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/transform/group */
+import{materializeGroups as m,toArray as n}from"../dist/transform-internal.mjs";import{assertTransformOutputNames as y,prepareOutputs as O,reducePreparedOutputs as d}from"../dist/transform-reduce-internal.mjs";function b(p,t){let r=n(p),u=m(r,t.by),s=u[0]?Object.keys(u[0].group):[];y(t.outputs,[...s,"source","sourceIndexes"],"groupBy");let a=O(r,t.outputs);return u.map(({group:o,indexes:e})=>({...o,source:e.map(c=>r[c]),sourceIndexes:e,...d(r,e,o,a)}))}export{b as groupBy};
+//# sourceMappingURL=group.mjs.map

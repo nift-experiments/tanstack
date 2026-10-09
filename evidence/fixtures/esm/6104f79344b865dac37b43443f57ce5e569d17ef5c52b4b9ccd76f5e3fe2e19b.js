@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/transform/cumulative */
+import{materializeGroups as n,orderedIndexes as f,toArray as l}from"../dist/transform-internal.mjs";import{assertTransformOutputNames as i,prepareOutputs as x,reducePreparedOutputs as y}from"../dist/transform-reduce-internal.mjs";function v(a,e){let r=l(a);i(e.outputs,["source","sourceIndexes"],"cumulative");let s=x(r,e.outputs);return n(r,e.by).flatMap(({group:o,indexes:c})=>{let u=f(r,c,e.orderBy,e.order);return u.map((d,p)=>{let t=u.slice(0,p+1);return{...r[d],source:t.map(m=>r[m]),sourceIndexes:t,...y(r,t,o,s)}})})}export{v as cumulative};
+//# sourceMappingURL=cumulative.mjs.map

@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/resolved-layout-position */
+import{isChartValue as i}from"./mark.mjs";function f(t,r,u){return t.flatMap((a,e)=>{let o=r[e],n=u[e];return i(o)&&i(n)?[{datum:a,sourceIndex:e,xValue:o,yValue:n}]:[]})}function s(t,r,u){return l(t,r,u,"xValue","x")}function y(t,r,u){return l(t,r,u,"yValue","y")}function l(t,r,u,a,e){return t.flatMap(o=>{let n=r[o.sourceIndex];if(!i(n))return[];let c=u.map(n);return Number.isFinite(c)?[{...o,[a]:n,[e]:c}]:[]})}export{f as materializeLayoutXYRows,s as projectLayoutX,y as projectLayoutY};
+//# sourceMappingURL=resolved-layout-position.mjs.map

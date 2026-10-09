@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/arrow-geometry */
+function M({key:a,x1:o,y1:s,x2:t,y2:r,headLength:n,headAngle:c,style:i,className:u="ts-chart__arrow-item"}){let e=Math.atan2(r-s,t-o),h=e+Math.PI-c,l=e+Math.PI+c;return{kind:"group",key:a,className:u,ariaHidden:!0,children:[{kind:"rule",key:`${a}:shaft`,className:"ts-chart__arrow-shaft",x1:o,y1:s,x2:t,y2:r,style:i},{kind:"rule",key:`${a}:head-left`,x1:t,y1:r,x2:t+Math.cos(h)*n,y2:r+Math.sin(h)*n,style:i},{kind:"rule",key:`${a}:head-right`,x1:t,y1:r,x2:t+Math.cos(l)*n,y2:r+Math.sin(l)*n,style:i}]}}export{M as arrowGeometry};
+//# sourceMappingURL=arrow-geometry.mjs.map

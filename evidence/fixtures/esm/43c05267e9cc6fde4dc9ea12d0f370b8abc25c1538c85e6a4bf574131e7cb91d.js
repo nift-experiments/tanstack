@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/adapter-shared */
+function r(e){let t=e.width??e.initialWidth??640,a=typeof e.aspectRatio=="number"&&Number.isFinite(e.aspectRatio)&&e.aspectRatio>0?e.aspectRatio:void 0;return{aspectRatio:a,initialWidth:t,initialHeight:e.height??(a===void 0?320:t/a)}}function i(e,t=0){return e.keyboard===!1||e.focus===!1||e.cursor?.mode==="free"?-1:t}export{r as resolveChartAdapterLayout,i as resolveChartHostTabIndex};
+//# sourceMappingURL=adapter-shared.mjs.map

@@ -1,0 +1,1570 @@
+{
+  "https://esm.sh/@tanstack/charts@1.1.0": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0",
+    "bytes": 3104,
+    "sha256": "e16ada609fbb594f63388c47fe13aebed5259ef1ade05ddf1b9267cb8ea7f00c",
+    "file": "a6cee6f187842653872de1300346012a2c9c7a3b5fd5ae7810fb43963418e533.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/react/tooltip?external=react,react-dom": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/react/tooltip?external=react,react-dom",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/react/tooltip?external=react,react-dom",
+    "bytes": 418,
+    "sha256": "5c551c0b6cc5045105bdb5be213f26b142f83fcba1504781b30c81abcea75e4f",
+    "file": "b0afc75ef58c0536e4dd9f685f6ab05a2ee4c46f1fd093b19a1301c5883b696c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/tooltip": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/tooltip",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/tooltip",
+    "bytes": 232,
+    "sha256": "f0cc49147a0525e50e2f3db6911fca6f1f62a06f77880a68e3d010c37ff156cf",
+    "file": "f06bc7f7968d47ab04068027a017303ab6371fbc1013a55640143fb8f47f6884.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react@19.2.3/jsx-runtime": {
+    "url": "https://esm.sh/react@19.2.3/jsx-runtime",
+    "response_url": "https://esm.sh/react@19.2.3/jsx-runtime",
+    "bytes": 158,
+    "sha256": "e0fa939b17c39985baf5724bb120552d5cb0b3a343f061636fddab9056a224fe",
+    "file": "c84f64e25d7f53b03bf19433c61c9043bdf3fadd7484aad77f8a0fef009df5f6.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-scale@4.0.2": {
+    "url": "https://esm.sh/d3-scale@4.0.2",
+    "response_url": "https://esm.sh/d3-scale@4.0.2",
+    "bytes": 300,
+    "sha256": "505befd53e856b8643a943a917fd1648e7b36684f128730a428e6cd75510078a",
+    "file": "d1728e9613b09f8816183f289872c7466a2f117e3ee6911af7656a8851db8bfa.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react-dom@19.2.3/client": {
+    "url": "https://esm.sh/react-dom@19.2.3/client",
+    "response_url": "https://esm.sh/react-dom@19.2.3/client",
+    "bytes": 288,
+    "sha256": "28ac845b9011c6c12dca50b4ed9645907f0d2755b55b31a27b99faee2c64500b",
+    "file": "cd7bd4162d90e670bcee4ba59fc9d198b0a238efe26305fbde57e0bb4013242e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/adapter.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/adapter.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/adapter.mjs",
+    "bytes": 1141,
+    "sha256": "67d30d5573292624924a56e19960fe4a30f7e53a6332e9b127aa5352d1479afb",
+    "file": "6f3d024d1d39be0b354ca809e601b6aa6850d5f3cec40c227df38f975f9a2df7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react@19.2.3/es2022/jsx-runtime.mjs": {
+    "url": "https://esm.sh/react@19.2.3/es2022/jsx-runtime.mjs",
+    "response_url": "https://esm.sh/react@19.2.3/es2022/jsx-runtime.mjs",
+    "bytes": 1453,
+    "sha256": "d985d0dca84e236472b3026a338c6163b1221a6198a4de3bc5b17e49636c8432",
+    "file": "13199768fdc9376af0a5497e83f0ee728f3519511b2e9cc50ff1a0ccfcb70883.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/box.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/box.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/box.mjs",
+    "bytes": 3721,
+    "sha256": "1d01d5aaf80484fc25400c46ed625681b5e09e30c51121779f1c08b8666e8f59",
+    "file": "7b97b978f2223b9448a8a32034d43ca0aaa21a6b3fc892848fa0903fccb909db.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/bar.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/bar.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/bar.mjs",
+    "bytes": 10012,
+    "sha256": "719063e80cc4070e6e5a8b8a25089df8524e514334324cf9043a12399a6384db",
+    "file": "80a6322f65b0337cd2f9e342158f3f0796d2e30c7717d9fcafe123782a5709ac.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/area.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/area.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/area.mjs",
+    "bytes": 2411,
+    "sha256": "d60e8f81d2c905319b68fbc6a6385c434683ac7f6e405f144da7426785408b4f",
+    "file": "f26402bc1374b4ef3071d57f49da1ebeddd2ce10b4f03ceaf06e067f65aa0c88.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/arrow.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/arrow.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/arrow.mjs",
+    "bytes": 1615,
+    "sha256": "c557dea7e94578fd89c64bce9b0ac695b591ef3641a4f0fd2454946a62ea99ae",
+    "file": "d038ec586c660a9373b431d27a053209341ff58e110924e9c4399726cc9e8d0f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/band.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/band.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/band.mjs",
+    "bytes": 2773,
+    "sha256": "a3bbe34f8423bc472cbd141eca9e55ce4cf9e015033ddc88a5e5ff8c6ecb8a69",
+    "file": "735643ea7d0b72796c017ce9272ef58ebedb0b8ebda116d2b31d03823f4dee6f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/d3/shape.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/d3/shape.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/d3/shape.mjs",
+    "bytes": 363,
+    "sha256": "d9396741f3513bc6f9d57e47b846045640ffdaedd25b7b9aa9ab65b6ee3c86ef",
+    "file": "f96d13008a79f6f1b5a936cd852d3830ec265d04f7f66978cfef57027aebc3c2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/crosshair.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/crosshair.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/crosshair.mjs",
+    "bytes": 7979,
+    "sha256": "c8c6af872e25a16d367a1ccdb46e6e7f2f4143f085297dbc03973ab6bb817f87",
+    "file": "16a1c8f59b12192007993a5fbe6b1daf8f078d82fdcf8ca64b0afa36e25d9804.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/adapter/renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/adapter/renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/adapter/renderer.mjs",
+    "bytes": 932,
+    "sha256": "879440e1dc273ce3804e12671f47318aa44c90396b53ba0da64fc9cafd0b0e7e",
+    "file": "ae7db8b070406bf67a1132a5d0cddc254dbd1cf8324a56abd776b10c73986988.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/CanvasChart.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/CanvasChart.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/CanvasChart.mjs",
+    "bytes": 423,
+    "sha256": "8404ebca73d2e27e933cf9d4a04e11ed5881215ad7cf878be0d92b1780f60b8a",
+    "file": "9e8c50c7b9dc97801f08898f45c12a72fc3c695fa805687f87349c7c5558fe35.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/difference.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/difference.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/difference.mjs",
+    "bytes": 7828,
+    "sha256": "1de167bcda40f2597aff0e9269e18687d1c2c4a23085c337a169ecb2e070c6c9",
+    "file": "655c4f4ba03c767a4e66b8fa152f96711ceb9f571f3e93671794fc1232a40fea.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react@19.2.3/es2022/react.mjs": {
+    "url": "https://esm.sh/react@19.2.3/es2022/react.mjs",
+    "response_url": "https://esm.sh/react@19.2.3/es2022/react.mjs",
+    "bytes": 9997,
+    "sha256": "5ed169bfe119037b58745b0890728efb248e52803b28385f7d3aa3896524b943",
+    "file": "3f9bd62ff138be8823c807163a5a027801f218b5b030f48d80f77660e9624008.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-scale@4.0.2/es2022/d3-scale.mjs": {
+    "url": "https://esm.sh/d3-scale@4.0.2/es2022/d3-scale.mjs",
+    "response_url": "https://esm.sh/d3-scale@4.0.2/es2022/d3-scale.mjs",
+    "bytes": 16593,
+    "sha256": "be640c27251797367c4d6a857285b8c2cae3926f8dda8ee59ab1a1b0b52fc2c4",
+    "file": "8818aa755b9580118cfd35aae51d377ecfafbb2e2aa8e8a8c022af7f078cff35.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/area-x.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/area-x.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/area-x.mjs",
+    "bytes": 2416,
+    "sha256": "227aedbc34f577b019e3e17c430057014c2e7309352ad67c63960fb459d6c5d9",
+    "file": "da0bb54ab1857e7e35e9b45f575809e868a828d3ad36fc1eb9811e41522b4658.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-array@%5E3.2.4?target=es2022": {
+    "url": "https://esm.sh/d3-array@%5E3.2.4?target=es2022",
+    "response_url": "https://esm.sh/d3-array@%5E3.2.4?target=es2022",
+    "bytes": 125,
+    "sha256": "3935667da94f8d177b5e6739fdea74b124ee7fc7ae8b4c3ca1af72fbd94638bb",
+    "file": "962a0210c56dd975242309fcda147bdb3cb6bbc9f4069631bc3a9df6e029f06e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/d3/area-x.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/d3/area-x.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/d3/area-x.mjs",
+    "bytes": 307,
+    "sha256": "b292ee84edaaf6e840d366cdfc48755f2719bf15c70ad3ecda3f64a586566f24",
+    "file": "03015bcc2ccfb9a279d7dc17d245c98adfb4a40a5737e6d519ec7c588b81a7b9.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dot.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dot.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dot.mjs",
+    "bytes": 3141,
+    "sha256": "ff40370c73e744cffc0c517788d2bfde5f49b8fbeea1322f74523aa8878db20c",
+    "file": "a3bdb378b062f36d93168c4b8b44cb24e46fec16a2165df4483912d63dca81cb.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/facet.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/facet.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/facet.mjs",
+    "bytes": 8963,
+    "sha256": "40620efd89dfc06593c9fe2f89ccca7b511d63fe00b843482748de28eb136d59",
+    "file": "f4fee8f9dd9b351e9fbce1ed9f47f53cd7b479ed8d057d1126832876e657aa0a.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@%5E3.1.0?target=es2022": {
+    "url": "https://esm.sh/d3-format@%5E3.1.0?target=es2022",
+    "response_url": "https://esm.sh/d3-format@%5E3.1.0?target=es2022",
+    "bytes": 421,
+    "sha256": "554fc04f1906ed9c92f1b3944dc0e415c35f51475036abcbd10e761e5888ba9a",
+    "file": "37bd608b2eb97b3740b16b0b2c9912055bc97988cbda56b74ba076fdca01207c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/group.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/group.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/group.mjs",
+    "bytes": 141,
+    "sha256": "a0a1941adfb8eb25ee87e4fd87244da80cab412863f94f4b365ca5cc70294fbf",
+    "file": "7ff099e48bb149c3a1a116107b8daa59d3e4e8ea7dbb327b3d724829a934ed17.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-presentation.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-presentation.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-presentation.mjs",
+    "bytes": 257,
+    "sha256": "ab1cbe1b30acbdd39347bffb63363035ae2248b93bc5b2468f9add26257ebbde",
+    "file": "4723f682e95d2c810de5661945b3245177d665695de4b558de65c720f6de24c1.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark.mjs",
+    "bytes": 2572,
+    "sha256": "685f270cdb0b1fa6a20422f358cf7f23ac4aa3a74d99c534fbc4de08669e4494",
+    "file": "9613484c016bedc2fdfcf6081c39df7b25a28f86dfb3fcc53cf2d4f7073aece9.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/rect.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/rect.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/rect.mjs",
+    "bytes": 2266,
+    "sha256": "9a2e669d1b13c7cb1dd6f36940ec29c8b23c2925af118d6edaad6f2ab8efa2f1",
+    "file": "11db17d2558865523bdaf2a4604596f925c453a7c26b0bb1d5767475e17afc69.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/tooltip-position.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/tooltip-position.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/tooltip-position.mjs",
+    "bytes": 1022,
+    "sha256": "6266c02e2ba39de960ef6d10316bc6b462fafdc693915e96c9d76be453cb121c",
+    "file": "fe7ffb50096ff8fcadc3bdd0687ad92a3a46a23e3b46882b2f5110d55482c029.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus/mark.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus/mark.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus/mark.mjs",
+    "bytes": 190,
+    "sha256": "6e09f179cdfdfc612fcfd5fe65fd5750a8c92a7ec6ae2f2254bad98c6c8a8fd2",
+    "file": "a2e64da3294cffae6d244f9770e1f6808e328160335a59780e2a5e845d48bc8c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-layer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-layer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-layer.mjs",
+    "bytes": 4151,
+    "sha256": "b05385fb4cca154b3a8fa4eb2b7b64e0dcc4eef32b2da70d2fc04dd40225ac5e",
+    "file": "8d71d0b4a46572315725038d359f15254483bf3d61bcda346e04a9183a08e094.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/scene.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/scene.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/scene.mjs",
+    "bytes": 23141,
+    "sha256": "b67abc4f22f87652f89c4ef01b14dc06fd685be92a2eed9f36c63e0dd05212ba",
+    "file": "db99bee394feb7c66f4077039f561ae63f9d97900182ea2e7a33cb8793f640ba.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/rule.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/rule.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/rule.mjs",
+    "bytes": 2010,
+    "sha256": "5b46aecd9356bde64b9103b2fc107e4ca0e2c0d4d1526d36fa94073e6681591e",
+    "file": "1748b9b1e0638d805df03a9ac35d957fd512ff2580a7621c3f8a5d781e6c246f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/legend-static.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/legend-static.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/legend-static.mjs",
+    "bytes": 8291,
+    "sha256": "79dfe2e105c133692428c953775c76c5deaf64eb26cd9d35543fe207c10a3439",
+    "file": "14aa2e62e7015fa6dc522e78f980cb473a565c801e0b45510b29c37d04e1dd27.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dodge.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dodge.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dodge.mjs",
+    "bytes": 2834,
+    "sha256": "dd2158add371b2f12d8894bb033356bde2c11320184744573d39da2b5dd50ebe",
+    "file": "db8eafc7a3936d60eea95d583ef091e6a5f0406c3d64c6a306b2030e26ffab6d.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/runtime.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/runtime.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/runtime.mjs",
+    "bytes": 567,
+    "sha256": "f9fe5e52124816481dce45742d099e0f2f272f8bef74d42345d12c0afa687f38",
+    "file": "ca40248482733e8341247e22852b060d6e3bf871d466c3d0ac0d836d130ab13e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/ridgeline.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/ridgeline.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/ridgeline.mjs",
+    "bytes": 3492,
+    "sha256": "8c3745d505edd426a98e4a35a972018913b9ee885c3a4f79df30942f9b1e9899",
+    "file": "79e3a146e50765cf6c1119aac50676374b48a625d6d1df6cea27c676cc8f26fb.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/line.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/line.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/line.mjs",
+    "bytes": 2625,
+    "sha256": "f6af4eea3192d5af44b4cb45480cf31735f69cf0bf1e75ad6b9ed3ed8bb41870",
+    "file": "8ba07b9a7ae1a69b3c79e18d45f4e23c5c0ce0d10b26032e609bb6417c04a1aa.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dom.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dom.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dom.mjs",
+    "bytes": 857,
+    "sha256": "3f23c44b430e268c45335e2c5953099aec67736e030326c11d390ced12527c4e",
+    "file": "e9effedd634ad3a4015a81754c27896ebbb0e247ee549cedb9952c9def5ebc28.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/frame.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/frame.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/frame.mjs",
+    "bytes": 680,
+    "sha256": "e74b33b66ccdcab9f978ec162e8027fae1f409a09d7f7faf3ad900e75ce5ce8a",
+    "file": "17622e05d89698fdb99476716095d3ecd39bb7b97365821461cbaaeb67d7a4d4.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/svg.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/svg.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/svg.mjs",
+    "bytes": 1461,
+    "sha256": "c59119d7fbf8f559cc4dca2495cfb5b8e032ee2af059e915e073a464ea410675",
+    "file": "dbbcae6252b9b21850c37ae327ea34a2837a40f75edb4180c78ae9968e460246.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/regression.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/regression.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/regression.mjs",
+    "bytes": 6737,
+    "sha256": "2973d6d7c3a506b90b8c436f7aa2d66d1550ffe69166b4a316806d687d94fa3c",
+    "file": "13e99d7ef3cb87f6e6885f900d131508aa644b24b5c27cc8e558811604cbdd6f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/mark/composite.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/mark/composite.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/mark/composite.mjs",
+    "bytes": 372,
+    "sha256": "ff562b31475b45dd7875ff74191080c0538dd4453e2c947f80e0cba55374374e",
+    "file": "01729616602adfb54bd702607621a60d6f0070729e300ec0e661d53997fb223e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/fold.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/fold.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/fold.mjs",
+    "bytes": 647,
+    "sha256": "751c8aee20a798030ab6676499434dc3513bf2c57cee6741b6cfeb75a8e58c45",
+    "file": "a9fc48074806166628f6d7326c76001dd0af3a2d667e71ab2f798afc98cb084c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/stack.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/stack.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/stack.mjs",
+    "bytes": 141,
+    "sha256": "c39ff9c66a705b98de2fae3a7c7ef5614857f8803d9baa430b3daaf31d86e709",
+    "file": "e408d48a3882adb9407bdcdde785ee9f9a123849739c6421421640000f89f063.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/hexagon.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/hexagon.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/hexagon.mjs",
+    "bytes": 1679,
+    "sha256": "99e909bfed98d4c6aff32a7abd3d8bb1cecc8b14dde8826c984d8afab6811732",
+    "file": "6d88011df3eb5937581f90c29da1db9ff11c929efed36d55f2b25864969218a3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/link.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/link.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/link.mjs",
+    "bytes": 1688,
+    "sha256": "2374218cc81e9a291363af9a7da3abdc912647cd5ae5a27959d36f3ee01e46fc",
+    "file": "34e64394c794e88d2dd060bb1576ff058adea6b65825a8411212bd384820b5df.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/normalize.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/normalize.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/normalize.mjs",
+    "bytes": 1001,
+    "sha256": "25bb0e288aa288ccaf1a975a58368ec31166b7ebd041f2645a92af167ff64f1f",
+    "file": "05c9f42d087f86eb1a285abbb782447a3d732d6c1bd1af2a32c8422501a0d3a8.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/group.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/group.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/group.mjs",
+    "bytes": 567,
+    "sha256": "fbebb80b20755c52eedb1f1c81fbc0ba47394fbd7a59c599beaa9d34cfc310f2",
+    "file": "6752bb0d2b6aec30aea1c0c930b144e859e9c3d38a78377617dafcfd179d7713.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/text.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/text.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/text.mjs",
+    "bytes": 1917,
+    "sha256": "8cc041e83d1bd601404a44c9f39773bd324c578d1b7436fd8e429b71a684baa8",
+    "file": "cca2eb79c0751fd8b120d8b315595162fa892d849d6def9ded03d886283b2f5f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin-time.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin-time.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin-time.mjs",
+    "bytes": 1444,
+    "sha256": "c8e584e44c3b306c5645f14673248e361c17d07676ceebd122c52d593233083b",
+    "file": "d062b5df3c89bcb084839968ba0bb083eb4f993a48df7d132ccba5c3d81e75e3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/reduce.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/reduce.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/reduce.mjs",
+    "bytes": 915,
+    "sha256": "189eaffa27daacc6d479cd82ed87099b1268ed2de84a4ed7dc9243f1616e4737",
+    "file": "d434cca8370833c7600d4114b7f4cc840ff8566daa6f2aec7e7bc3be16f141cb.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin-xy.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin-xy.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin-xy.mjs",
+    "bytes": 1736,
+    "sha256": "74823338a51b2f0dcf541b5aae415ddc0e23c18f2ba3eb1576158c325f624b51",
+    "file": "1e427a8f2299af02072ed6c547003ca447f0dc54c870c13beb6314bd3bf3d4a5.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/rank.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/rank.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/rank.mjs",
+    "bytes": 873,
+    "sha256": "a29a85d60546f84beb728cca27b4c5fdb74d601bb0a4385fa3079f1a30847629",
+    "file": "78983cf5ea18cd2f3779d30475fd1783117bce3f46519c6b779bb930d7eb3fbe.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-shape@3.2.0/es2022/d3-shape.mjs": {
+    "url": "https://esm.sh/d3-shape@3.2.0/es2022/d3-shape.mjs",
+    "response_url": "https://esm.sh/d3-shape@3.2.0/es2022/d3-shape.mjs",
+    "bytes": 31064,
+    "sha256": "63dcb4292382ed463932b1bfa5dbe1e6d2e1f6af1cd7bfa35c646f688cde8947",
+    "file": "1619af4a0301b8c34868adf8ce5f4bb262355ecbc03c2f42651792793e15c4ac.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/tick.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/tick.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/tick.mjs",
+    "bytes": 2061,
+    "sha256": "28acdb87f502d7383e216b840a0d86a43d0541608903b43912ffa8cca8dc7156",
+    "file": "de3f0d3fb8b17774f36ac13300e825c9c5af09ac69b3fbf54ff7c2348f3ac7e3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/violin.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/violin.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/violin.mjs",
+    "bytes": 3316,
+    "sha256": "5fad27912a9dc74471adcf5d7622cd3fb8188d980fa8e39f81fd134c879db658",
+    "file": "b57fa5ee95b8c51a9654cbe3de8f030361eb2f8797f470e916e1a6d0c3db51c8.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/cumulative.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/cumulative.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/cumulative.mjs",
+    "bytes": 648,
+    "sha256": "dbb5a405d7b4bc7e62b9b584ffe4a4b224d4b49a8ea64d33159d47570b54dfd3",
+    "file": "6104f79344b865dac37b43443f57ce5e569d17ef5c52b4b9ccd76f5e3fe2e19b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/mosaic.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/mosaic.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/mosaic.mjs",
+    "bytes": 3173,
+    "sha256": "67be97cb1ce4c796e965636d7671d0fc438a6bb381c469c7bfd685ebeb3ae665",
+    "file": "d62fcaca9e610520dd4c8f27d501d2bafeb918bea3651e686aa74c502c7904f6.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/bin.mjs",
+    "bytes": 2437,
+    "sha256": "1b046afceb51a931f54c4495448e2acfedde5cd828f9f30e63945030e56dd918",
+    "file": "5120e3ff6a66b47b011dfcfe3ef0689c9092f1626b05e31542efb80db8e99bb7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/vector.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/vector.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/vector.mjs",
+    "bytes": 1785,
+    "sha256": "cfe3b17e222c51d3c6f348be77f521e9b45a829f3f0ec5355a00a317f09e008c",
+    "file": "e13cd746855896bce7149d2df76b2bd65474b35ab7578c45293a0bd42eab30ae.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/rolling-window.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/rolling-window.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/rolling-window.mjs",
+    "bytes": 1013,
+    "sha256": "0b2042f79aca530b24c301ba3e45bfdb55557d9c6c7d76358320266d51e95cac",
+    "file": "5baf3dace62e303605845029d126aa3cade0c65b148b6411439c8053a15de1d5.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/waffle.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/waffle.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/waffle.mjs",
+    "bytes": 3993,
+    "sha256": "e527e693b5dbe498833136bd057efbe3f3e451a7ae6d88afc601f5b8e3e6bb84",
+    "file": "695c5b3ddef628d19a74388232b554ac98070c3732feabfc00e634625b4eceff.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/svg/renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/svg/renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/svg/renderer.mjs",
+    "bytes": 5805,
+    "sha256": "2661cf40c2b9e991dbfaac4855df09f06ac7e7265265f4d51066ffe6fbf59a6e",
+    "file": "71e508e13115fa0480c50e263718a5074be467ce87c06e51e28f6fa243b995bc.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/charts.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/charts.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/charts.mjs",
+    "bytes": 4663,
+    "sha256": "e1cfd51eca280cfe00c058b52ce88d5db336a063f6782a113ac32fba879f8eb3",
+    "file": "3720a4650f0b6137042f972b955d8ed6cc474aaa8183a55e87a116bd0bef7ab7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/select.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/select.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/select.mjs",
+    "bytes": 1000,
+    "sha256": "ca24666326cdb2abe651fd403f6441c290ba62a7ebf9ae543beb7713985a8e82",
+    "file": "1788660390ed1363d0558d3ea3debaa02b4f6c3ea72cef4c355c3328cd3423e0.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/stack.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/stack.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/stack.mjs",
+    "bytes": 1213,
+    "sha256": "c21cab54a54806df998a99f47043058d15fc6a9b4360e8d9da71da763b7ac485",
+    "file": "91fc84833085cac6166b2dd425810c63697b8941a55bb76f1752746323ee7dcd.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/waterfall.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/waterfall.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/transform/waterfall.mjs",
+    "bytes": 1135,
+    "sha256": "c0ffdf6504df77fa7822283b9a977fea0510b99e5b484e40ca4b0df240630153",
+    "file": "45d2ac00b23b743e5fd138d1225285532d2cbf8c58fff9709a2219d1be4db8a2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-array@3.2.4/es2022/d3-array.mjs": {
+    "url": "https://esm.sh/d3-array@3.2.4/es2022/d3-array.mjs",
+    "response_url": "https://esm.sh/d3-array@3.2.4/es2022/d3-array.mjs",
+    "bytes": 16552,
+    "sha256": "8c246bbbb0d70821c9d2a2ea65206536305c3a39b320c20e416fa3f27862e712",
+    "file": "ddea2d2741e632e94c71f62edf1d040276ad2732770f57b28682c5b805b05aa5.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/Chart.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/Chart.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/Chart.mjs",
+    "bytes": 877,
+    "sha256": "c58dae237ec2fe28c40d308cc031cee36b10cf0e5a8222ed6ff078c622be4dc8",
+    "file": "67913484787498deb21f2c4e3103164f3dbd4e85c63c867ef84d5c704409f1aa.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/tooltip.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/tooltip.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/tooltip.mjs",
+    "bytes": 6528,
+    "sha256": "1eaf2314b150c48b7c11b38696993b5824cadb698520d0fcab62527221a1c83c",
+    "file": "364f7b568f3f4530c00751486c340ffeab31950060d415ce21b437312dbf2c6e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/precisionRound.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/precisionRound.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/precisionRound.mjs",
+    "bytes": 222,
+    "sha256": "1420f8d94be50e7e430aace697f9455c71e271d103dddc656a668e1d028e1e10",
+    "file": "4430615b8cfdfec90671f1d857cd0e0ca6f257f29c7c6d6c4d375f7e6daeccc1.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatSpecifier.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatSpecifier.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatSpecifier.mjs",
+    "bytes": 1104,
+    "sha256": "3098ac54cba09fb92885030a4a0e17dee95904fdfb0244d324b916e23dda8172",
+    "file": "5c054b28bd688afcd10389d80df5facf7bfaab85bad9b3a3a86b02f0572b053a.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/locale.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/locale.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/locale.mjs",
+    "bytes": 2312,
+    "sha256": "9b0408032ebb7fbfef1e1b51246a486a38f282139478a8e391f7f4d7c8e68e73",
+    "file": "21b0caeb47fee499ddd677ffe58f86c1285f75f294b1ce9d385649ec3e7d0c73.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/defaultLocale.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/defaultLocale.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/defaultLocale.mjs",
+    "bytes": 289,
+    "sha256": "710e133cac4aa0bc4e7a875c517dea47697e6c098a76c9a261eb4f70f21da048",
+    "file": "d6f4fae82a834dbad0cc18c15b16480e8aa90b535c96061d997457b4dd470cb3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/precisionPrefix.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/precisionPrefix.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/precisionPrefix.mjs",
+    "bytes": 243,
+    "sha256": "c9f8eb35fd4551e3057a19e6c3933d8ba1b57af7e00b24228ca63e929942526f",
+    "file": "7f8a90506ed09c4f669d3b6a8a6ce3fb6114682ac84e91816fa89f7a421e3ac3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/d3-format.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/d3-format.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/d3-format.mjs",
+    "bytes": 604,
+    "sha256": "68da0bdc7f275a959871f107afc58e744b539def35af7cab714d67979dfc883b",
+    "file": "2949835b2f83259e767f2f2ea159fa3d0603ccdabf4b6a42ca7d3bb33484065c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/precisionFixed.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/precisionFixed.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/precisionFixed.mjs",
+    "bytes": 194,
+    "sha256": "1a6c84a4560b4733bd837a9945bf984dd4ebf4465bb7d9ad368688af9b3a9c93",
+    "file": "9b420876a03237827b5f90aa42440e0af6d748346bee63297710a11b1e38ce30.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/RendererChart.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/RendererChart.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/react/RendererChart.mjs",
+    "bytes": 1765,
+    "sha256": "e938311ca377c81c02a7a87df2828dcb50431644e664d191275cc2e7893c1c1c",
+    "file": "4b1ae450b6a04495aef6c3f52516da16a690c5c9a205e5486fcde0bf1e94e21f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time@%5E3.1.0?target=es2022": {
+    "url": "https://esm.sh/d3-time@%5E3.1.0?target=es2022",
+    "response_url": "https://esm.sh/d3-time@%5E3.1.0?target=es2022",
+    "bytes": 121,
+    "sha256": "fb19b0f5a995b0d3cc2e8c2b1d58f420bf4ea295776a0cdb1b9187c36b307b8f",
+    "file": "be6ad009f75113a76965a6a927db28f65bec7d249dc4b06e369cfd4bebe36a1b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/tooltip/model.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/tooltip/model.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/tooltip/model.mjs",
+    "bytes": 4782,
+    "sha256": "b9764a5f7bb776dab35453badb785cc8c00a9b44d6adf370ec816cc8fc933b42",
+    "file": "90ba54e2b30c2843349e29f9c3ab7f87941148e2d668523c13a9f4ad3800d45d.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/react/tooltip.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/react/tooltip.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/react/tooltip.mjs",
+    "bytes": 2624,
+    "sha256": "8a7e6396ca064a0960c614ccde1b1005510224c1e6dd47aa6119842011e109a7",
+    "file": "082073c314ffa9d4bb8d27c0fb95cd3898f2ae392473d3ae057c8a7c3e52783e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/node/process.mjs": {
+    "url": "https://esm.sh/node/process.mjs",
+    "response_url": "https://esm.sh/node/process.mjs",
+    "bytes": 7861,
+    "sha256": "79e7646e87709989f575ea4ce02e0877bc9303081567b1c0d412527917ae9e91",
+    "file": "9d3493270fc89c07b9ddb806ca546a93cc69ef3df11c458e5c5a9ea4019fad3b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/scheduler@%5E0.27.0?target=es2022": {
+    "url": "https://esm.sh/scheduler@%5E0.27.0?target=es2022",
+    "response_url": "https://esm.sh/scheduler@%5E0.27.0?target=es2022",
+    "bytes": 154,
+    "sha256": "7c41c54dcb14689edec0e87226b7b8367b20eba46f5155378990dbc71cd2cd8e",
+    "file": "e947fa86989d4cbea288b7393d65eee6c29b9d8692f08b7defba089de363a9fa.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react-dom@19.2.3/es2022/react-dom.mjs": {
+    "url": "https://esm.sh/react-dom@19.2.3/es2022/react-dom.mjs",
+    "response_url": "https://esm.sh/react-dom@19.2.3/es2022/react-dom.mjs",
+    "bytes": 5563,
+    "sha256": "15c5fd5ad2e341d82f89088dedbead6bd99f29d95f92bfe27b13fe1464e8cada",
+    "file": "7375c93eac250a1411f8a6c1e2def41f102377e260efe6b2e7de398c53416c09.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-interpolate@%5E3.0.1?target=es2022": {
+    "url": "https://esm.sh/d3-interpolate@%5E3.0.1?target=es2022",
+    "response_url": "https://esm.sh/d3-interpolate@%5E3.0.1?target=es2022",
+    "bytes": 142,
+    "sha256": "7a95128ed608f70e2bce11a9ffbe4772421d6f6a1a363ba70e8adeff845b4443",
+    "file": "a17da4bae9a64a555da4f1e5c505fd89eb7fca725f46fbf2747c0417b0fef574.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/adapter-shared.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/adapter-shared.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/adapter-shared.mjs",
+    "bytes": 490,
+    "sha256": "8082b95ac1b3edc9de3923be9be5cff73c38b9ac97f9ce03efe49fa873d86c04",
+    "file": "43c05267e9cc6fde4dc9ea12d0f370b8abc25c1538c85e6a4bf574131e7cb91d.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time-format@%5E4.1.0?target=es2022": {
+    "url": "https://esm.sh/d3-time-format@%5E4.1.0?target=es2022",
+    "response_url": "https://esm.sh/d3-time-format@%5E4.1.0?target=es2022",
+    "bytes": 329,
+    "sha256": "d3134486c826538ab58aea135a4ee836c34e0d807de72c1945200368332ddb98",
+    "file": "851733ec182c8533ea20acb642a9ee2e3608b0d2b0511734b72306b2252cf477.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/renderer.mjs",
+    "bytes": 17472,
+    "sha256": "aba4f1931bf09cc46970b93a11868761fb04d89e2ccdbb06f4c1c4568f147b28",
+    "file": "3297a07d4886e8ed5b39d9e094cae604cbdea80ebe63ab4561d6447485986b33.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-composite-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-composite-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-composite-internal.mjs",
+    "bytes": 5789,
+    "sha256": "19bfb2ed907990af9324150ceef7340aeb2f822d495288a9d9bf6c6164b83536",
+    "file": "95affd923e1f91f0cbeb197d38894a184ce015d424e325916bd6431504eeaa4c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scales.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scales.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scales.mjs",
+    "bytes": 2862,
+    "sha256": "b67d323ecc148e2257b1cf0d910648e68b2f91dcf2da055ffd931c782cc26c66",
+    "file": "fa2d6af38a74c8e32ce9108bfa87c5713bf6732feb0f20f86291736410c75037.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/rect-radius-state-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/rect-radius-state-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/rect-radius-state-internal.mjs",
+    "bytes": 440,
+    "sha256": "380b30778587786113df6a86c81d7ac719cdf35d625a3d5db588246b5f3cbcb6",
+    "file": "dd1f34d3209771f1d077aa55c06633332799cb88d490a39808e2d6f87ee5a811.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/stack-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/stack-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/stack-internal.mjs",
+    "bytes": 3475,
+    "sha256": "d46cc77b259cfb9ab1fff69e6a70fe8fc404c0a5fdb1cbc148dc73dbc3cb5349",
+    "file": "a26e0578038d920e65847028304371d6276773d2dddac7bf039c84898c2ec9d8.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scale-input.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scale-input.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scale-input.mjs",
+    "bytes": 2425,
+    "sha256": "d343c4827b75ad50b04eae286474eab2bc29be3a9198dc6e63da64b879c5baf9",
+    "file": "2446842d845d81b2212b53b9edc7ead4dabe547e38d3a757b500b51f302bb9e9.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-motion-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-motion-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-motion-internal.mjs",
+    "bytes": 179,
+    "sha256": "8eb8d8d0eb43f41507b82c9b07d9ab655780f4c25eddadd08f8b9d70cf51e22c",
+    "file": "e16c924ef80eae82819349ca74c1e2fc82a486df482a7b67d8fcb187245da21e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react@19.2.3": {
+    "url": "https://esm.sh/react@19.2.3",
+    "response_url": "https://esm.sh/react@19.2.3",
+    "bytes": 134,
+    "sha256": "8925137d2863966e5c3bf16b181216aaf189fc4e8a5e21621e3524cb9ee0c16a",
+    "file": "493c62d4e42fea74be9d245d53106835a1d9725477dbf9efe3db0c0da155cdd4.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mapped-spacing-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mapped-spacing-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mapped-spacing-internal.mjs",
+    "bytes": 657,
+    "sha256": "3407728b49a2a14ba1bf21d848b0ba343d613506f9cfabb4d7be85e4d0c6edf0",
+    "file": "574497a341349e265b2faa3a39e1b91107a074ab9f69c984ae3dd732f8f80b1b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/canvas.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/canvas.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/canvas.mjs",
+    "bytes": 23230,
+    "sha256": "92db6bfe70bbaed485152a6e8e185ee4a88960834448e816e261efed0cf109ea",
+    "file": "fe2a3c7b04d988a21b4a7580cac11a6b4c71df1b63f6f8db8f590efa600dbe2a.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/guide-layout.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/guide-layout.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/guide-layout.mjs",
+    "bytes": 3516,
+    "sha256": "b72ededce2deda327f09ca96408d4da049a28b960e7f90f725781692efe1ee7a",
+    "file": "ecc755bd0dcf3964228c87dfe8cfe24bbe7cce08c848947bcac7baad024ced4d.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/resolved-layout-child.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/resolved-layout-child.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/resolved-layout-child.mjs",
+    "bytes": 752,
+    "sha256": "c83aa5fa032d8ef54fc5add4b1f2b16e8babd92384724602f5fce8af64c856ca",
+    "file": "595c4e129a44740b21d7011da38e34a99795b78197e12bdcf3cad51675360218.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/resolved-layout-position.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/resolved-layout-position.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/resolved-layout-position.mjs",
+    "bytes": 614,
+    "sha256": "912cb04076bc9ab1c008ceb2ba7d5d38e5ce72da1a03e7bfb445871c8e168a7f",
+    "file": "9ef252c9778ad01128077556cd34da1e1c59e2a98dcb18d4e2e318975d036248.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/internmap@%5E2.0.3?target=es2022": {
+    "url": "https://esm.sh/internmap@%5E2.0.3?target=es2022",
+    "response_url": "https://esm.sh/internmap@%5E2.0.3?target=es2022",
+    "bytes": 86,
+    "sha256": "7a58ff2ae8f632f9463cb5e157b762be132e80a2db23c687c74285c6b9aa91a4",
+    "file": "1745a826483e987b18c0a8576551d06cb7988ff621bcb8cc30ccbec3b83d61ed.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/dot-layout.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/dot-layout.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/dot-layout.mjs",
+    "bytes": 157,
+    "sha256": "8aaa132f24ec52ab34ecdb1bde56d989aa9fc3c292cd1eac75db75fdb6289f90",
+    "file": "0ca1408eaebe3a181f9e9ab760ddb2d0f6b8379aee3a548b7f61249ec49e585f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-embed-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-embed-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-embed-internal.mjs",
+    "bytes": 2456,
+    "sha256": "834eb4e0996894f06b23f73d587977a8a469d9d740513af01c52754c9873d842",
+    "file": "bea23db5b3a7e502ccd20b0773b2850c1602060fedd94f75f795fd74184f8748.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/tooltip-placement.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/tooltip-placement.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/tooltip-placement.mjs",
+    "bytes": 1073,
+    "sha256": "b20a4f64332b05e626c809f64c4ed60acc9fa034c078dad5aa5f13bd454909ea",
+    "file": "72bbf46ae89e8ac4d6652e94c1b4f9e8e997cdf57f415b2a50acc00e3be77791.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-point-ownership-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-point-ownership-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-point-ownership-internal.mjs",
+    "bytes": 1599,
+    "sha256": "6685893c9e1d30730526ce9418b9126b14784a6e9efcacf73b6fc3f035bba1e1",
+    "file": "8395721694e65178ca21fdaca85f91f3a4ada412d2917e6518a8d1455a66c9e3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatPrefixAuto.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatPrefixAuto.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatPrefixAuto.mjs",
+    "bytes": 488,
+    "sha256": "0980ea58e33ce9be55f662d79e0e3329d9e010843bcc31887510ee451d666876",
+    "file": "27b1f09a3ebbce2d061b5b489a6bb1bed04cb62d2a8ce56e82c4765a720b4121.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/legend-layout-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/legend-layout-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/legend-layout-internal.mjs",
+    "bytes": 976,
+    "sha256": "bb5123cb93030fe358687d1c32a685edd77d36dc47b993e62b89fd2f9ef33159",
+    "file": "ce83836991790b21fa679f86b9b756ea2b9369614cccbe4ed8d56f4c9c87cc2b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-coordinate-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-coordinate-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/focus-coordinate-internal.mjs",
+    "bytes": 309,
+    "sha256": "24bcb1c89c0983a1c0854e7de03942efb3bc627056acd7d552ced8d577f4834c",
+    "file": "42dfe0582b9b4c734066ca3040abb3d2739e64cf2a6d38633df8e794a8f46ad7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/nearest.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/nearest.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/nearest.mjs",
+    "bytes": 7314,
+    "sha256": "fec2b3467455065db342072ac49e805a62591875a05274f585d5556da4f03346",
+    "file": "2d14a570b45295fb7673c6dc67b945dcf663449ed5e6d96399f5e233e1872074.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatTrim.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatTrim.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatTrim.mjs",
+    "bytes": 307,
+    "sha256": "67f10b1db5930fe7377832329628e9841b7d10978f1ddc9b49fc3c9bdfe00aa5",
+    "file": "fe57ab7b76878bd2d5e9827f51dcbef4b811eac08f8523128b4dc28702e55887.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/exponent.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/exponent.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/exponent.mjs",
+    "bytes": 209,
+    "sha256": "7b187510691ddc84ca7ec9bc4384d6aeca364eb0bb322a901b232d5d413fb454",
+    "file": "577c4715858e0b99f87602ac901f7c38de937f874065609c65f834c32437666b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatNumerals.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatNumerals.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatNumerals.mjs",
+    "bytes": 202,
+    "sha256": "2fbf8a07827a1cbbd034a2d4d6631f734208af8f94a2e520c514157d34d273df",
+    "file": "dbee56ae2dcfc23f8d81d39ca3564c07968ace13892949d5c83115da5639bc2e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatGroup.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatGroup.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatGroup.mjs",
+    "bytes": 321,
+    "sha256": "1802826bea04ce1db0d60c04465e213ff72d58b9bdca1e76ebc98b1a478b0161",
+    "file": "368ca67f2f5f2b7ceda2c1ddd6bc53e6ef72e6d52eaa1c9178f39b4939602d71.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatTypes.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatTypes.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatTypes.mjs",
+    "bytes": 511,
+    "sha256": "0f85396ba1513ecd98d2aa30fad418d689c602a0c9730cdcf0ce5c8f891f8d00",
+    "file": "7e4fce194c88458a99c6a2f759b432cd5ce95a41502c349d46e15bc2b66102d7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/identity.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/identity.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/identity.mjs",
+    "bytes": 126,
+    "sha256": "8b0efc94aa1f3640295b7a38acbc72e9b042427061da532802a2d22dc83f32e6",
+    "file": "4b19db0c8778777f59d5cd4e20e9b7aef72c093d91136ab94cd7345fc1d09bf1.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/node/tty.mjs": {
+    "url": "https://esm.sh/node/tty.mjs",
+    "response_url": "https://esm.sh/node/tty.mjs",
+    "bytes": 685,
+    "sha256": "c66ff4b406bad449bfb2ced355f15badf16f4d9e035d2d300e33b5aeee64e3be",
+    "file": "54186365b6107d9be397f797e6f7f14218a9e44e22a34f29ef9fdd2c97e74051.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/markup-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/markup-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/markup-internal.mjs",
+    "bytes": 465,
+    "sha256": "88418672b6c7734f3ca990c854a36af4eecef3fe5f374dfbfef5e36b74f75e32",
+    "file": "3b646f1cf1baf5f31a9b1b0eb9fcfb8cd3e8a2b9cd3a43798c29ea42ce7c4925.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-renderer.mjs",
+    "bytes": 4375,
+    "sha256": "d8bfee1a35b0e06d9897f2b3ccfe1392915747b95ed8589a4b9eb2b5f2180d80",
+    "file": "038c1ced29445af2f7bc729896c828615fb66e8ef02bc060bb3cb8f537ce9e88.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-reduce-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-reduce-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-reduce-internal.mjs",
+    "bytes": 1068,
+    "sha256": "eae551e60538276ff345c510a1b1b37ad9fda0b99b055cb07677464021dbca71",
+    "file": "5a417995f2c1dd1ab0b8965698d9a9698462fb2cae7fab274e0c9e80d8a98b0b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/node/events.mjs": {
+    "url": "https://esm.sh/node/events.mjs",
+    "response_url": "https://esm.sh/node/events.mjs",
+    "bytes": 12122,
+    "sha256": "4c6150b88c1444aa1fe9331013e3f37eda9836206f629f7f3ae8f3743dd90fa8",
+    "file": "4482af8fc17462a76e11b3cb0fe7f7000c6ae210256f5878978c00a294be40fa.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-path@%5E3.1.0?target=es2022": {
+    "url": "https://esm.sh/d3-path@%5E3.1.0?target=es2022",
+    "response_url": "https://esm.sh/d3-path@%5E3.1.0?target=es2022",
+    "bytes": 80,
+    "sha256": "39769cc2baf69f32e1f1c7f3a8cab3430e1fc67868b524f144f75114447ad7f3",
+    "file": "eec305014a4c22cfbbec9e56f1875bd3e5dcd252de75dcae639d74a480dd8768.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/scheduler@0.27.0/es2022/scheduler.mjs": {
+    "url": "https://esm.sh/scheduler@0.27.0/es2022/scheduler.mjs",
+    "response_url": "https://esm.sh/scheduler@0.27.0/es2022/scheduler.mjs",
+    "bytes": 5502,
+    "sha256": "b1ba1723bf253d62b0aa1c3c0603d0d025010642158b0e746ae1fd6f7500deeb",
+    "file": "0cdcec0abfd8d1ed9a3e31f8257f2ec9a2abc36623281cbf824312d3b311c7fd.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-interpolate@3.0.1/es2022/d3-interpolate.mjs": {
+    "url": "https://esm.sh/d3-interpolate@3.0.1/es2022/d3-interpolate.mjs",
+    "response_url": "https://esm.sh/d3-interpolate@3.0.1/es2022/d3-interpolate.mjs",
+    "bytes": 7995,
+    "sha256": "815963286c997bb43438d16771debfb9b50d43c03ff80024ed4896f8f4847b62",
+    "file": "f6925b34be6efd3892ed4eb99b284cb93a76b3531a32b660b3598d8db00ef921.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/proportional-interval-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/proportional-interval-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/proportional-interval-internal.mjs",
+    "bytes": 1372,
+    "sha256": "8c90966941d36b162216765dadc76a85c5eca03c7c49cf70e59bb382db3dbf74",
+    "file": "de162019154ba0223f45a416ee0a69561cbe395a3a1f20b996c15c1f838e7cfa.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-coordinates.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-coordinates.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-coordinates.mjs",
+    "bytes": 454,
+    "sha256": "c3bd529ece0ccb7e82de71d8af41b844a2760d594d56265d259d3f2fdd990bf4",
+    "file": "8fc8d1a8108dbb73cc4588997e570fcf01259223aa593b5caf842e4dbd3380a8.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time-format@4.1.0/es2022/src/defaultLocale.mjs": {
+    "url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/defaultLocale.mjs",
+    "response_url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/defaultLocale.mjs",
+    "bytes": 716,
+    "sha256": "b9454dea3f10f2b51d249f5f1a8b19873afe8acbbdf119188854e99f22a809ec",
+    "file": "383e3a1b9bad1724ff615106291d8790c013d383bca1b9398d5182198a2f102c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time-format@4.1.0/es2022/d3-time-format.mjs": {
+    "url": "https://esm.sh/d3-time-format@4.1.0/es2022/d3-time-format.mjs",
+    "response_url": "https://esm.sh/d3-time-format@4.1.0/es2022/d3-time-format.mjs",
+    "bytes": 472,
+    "sha256": "6439e52bacb8523679a21f687afcf00053a5fd746f0082029623fdceed767ae4",
+    "file": "a905d0a8665a8698baa7a7561e65a264690d2c9ea1b90bb5e4ca52069e7e0ce0.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time-format@4.1.0/es2022/src/locale.mjs": {
+    "url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/locale.mjs",
+    "response_url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/locale.mjs",
+    "bytes": 8677,
+    "sha256": "c411f771329e75dcce74c09f963bcfb423bf507d02486103a14c23081174325a",
+    "file": "521b606583523119033563a217b2d76d3518777f4d43d05f95b2c9b0d776b9c4.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time-format@4.1.0/es2022/src/isoParse.mjs": {
+    "url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/isoParse.mjs",
+    "response_url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/isoParse.mjs",
+    "bytes": 312,
+    "sha256": "f4e93c15fa87c3862711cfdeb172b12a727795be94982e328d245a31d599557c",
+    "file": "10e501fe5d05350760328b2ebed3a3806aeb9eefb2f7deea1a855e11fc4f6d25.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time-format@4.1.0/es2022/src/isoFormat.mjs": {
+    "url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/isoFormat.mjs",
+    "response_url": "https://esm.sh/d3-time-format@4.1.0/es2022/src/isoFormat.mjs",
+    "bytes": 287,
+    "sha256": "935278d7dd8b2d40cebb6c31abd772c05f26172bff30b7b456cf05c8f899007d",
+    "file": "2c3ca4513c06cccc49844fdd9b02b4010e615deb1acd7b119614e510e6bb66cb.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-render-context-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-render-context-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-render-context-internal.mjs",
+    "bytes": 327,
+    "sha256": "6180bd729fd2b7b0a97bfde6bcf1d7e2b44cf11acc10e12739c73d806f8381b0",
+    "file": "237d46fc3d5da8de129d75261bb9b6f1a6d7d3115dc0ae888a0dd25de91c4ff8.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-focus-guide-layer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-focus-guide-layer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/svg-focus-guide-layer.mjs",
+    "bytes": 1253,
+    "sha256": "5105eae9b74d9ff324a453d0cd79eb8ff3808dc8f0dd533c172be1e6214a7b75",
+    "file": "c2a387ef5658c0a439f5b921930244417866d6c2c0d0fe534a57800a3027b9ad.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/reconcile.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/reconcile.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/reconcile.mjs",
+    "bytes": 4292,
+    "sha256": "ffacb31df22ed6f1056b2fcca7584806576934a1fe3b6fd74c75440aa42c0bc8",
+    "file": "580e5e697d47429c8efee27fd2f6d2f45b5632011049efceb9db6454c978579b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-state.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-state.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-state.mjs",
+    "bytes": 3125,
+    "sha256": "e26c46802def390d99918d048e9dca440a23bbacfd0c6fbe874639f1f5b5390c",
+    "file": "347a3ca5f79545a1617d31278191bf6ccfa3a26fd125382b06f13643c1631f70.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react-dom@19.2.3/es2022/client.mjs": {
+    "url": "https://esm.sh/react-dom@19.2.3/es2022/client.mjs",
+    "response_url": "https://esm.sh/react-dom@19.2.3/es2022/client.mjs",
+    "bytes": 178467,
+    "sha256": "e13f0b5774bcbad6cf6a3cad52dc2309f5ade7cafc861423fb12f1d1d52b82f1",
+    "file": "7e10efe25946067fcce59073dcf29c17a7f1bd6cf57095e72b57cfd8ceffab24.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-state-transition.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-state-transition.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/mark-state-transition.mjs",
+    "bytes": 348,
+    "sha256": "21c5360640ccd1e71a4a6bc63c37e6ad05d59bf2698f7fadf3362e32da7ae15c",
+    "file": "e3b911f1edb65c3dfdad6b14d378b88da80770351dc89044d7a54ef78e570d5f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/svg/renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/svg/renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/svg/renderer.mjs",
+    "bytes": 5805,
+    "sha256": "2661cf40c2b9e991dbfaac4855df09f06ac7e7265265f4d51066ffe6fbf59a6e",
+    "file": "ffada84e7ccdf4d508af5d155d7382ef283f2ebff9acaafaf0604f10290d87d2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/svg.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/svg.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/svg.mjs",
+    "bytes": 1461,
+    "sha256": "c59119d7fbf8f559cc4dca2495cfb5b8e032ee2af059e915e073a464ea410675",
+    "file": "2989893f4afa7744101606dfa812814daab423b81390e410b0412b8788930f62.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/react-dom@19.2.3": {
+    "url": "https://esm.sh/react-dom@19.2.3",
+    "response_url": "https://esm.sh/react-dom@19.2.3",
+    "bytes": 195,
+    "sha256": "96bf4090a89702b44d970bee41cdc1e8623fe30adeaba99f824e0a9b58863085",
+    "file": "e8fb3e1d8da6be6793df3dea10242f0c1a78e5a55202b49fab3439a2f54ed29c.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/adapter/renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/adapter/renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/adapter/renderer.mjs",
+    "bytes": 932,
+    "sha256": "879440e1dc273ce3804e12671f47318aa44c90396b53ba0da64fc9cafd0b0e7e",
+    "file": "b614aba8d4a473bef5661df70c3b1eaefdefd4b3b7ea0a40c463803c0a893ea5.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/internmap@2.0.3/es2022/internmap.mjs": {
+    "url": "https://esm.sh/internmap@2.0.3/es2022/internmap.mjs",
+    "response_url": "https://esm.sh/internmap@2.0.3/es2022/internmap.mjs",
+    "bytes": 1000,
+    "sha256": "09707265c3a24383ca1b71aa6d97ab980e91ad4e804f55dec34de6d24a9900b4",
+    "file": "2579ed4d9976338d4341986a8e24092c7230762e20e35ba4cc85ebf41f98222d.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-color@%5E3.1.0?target=es2022": {
+    "url": "https://esm.sh/d3-color@%5E3.1.0?target=es2022",
+    "response_url": "https://esm.sh/d3-color@%5E3.1.0?target=es2022",
+    "bytes": 83,
+    "sha256": "e0b655ebac51ed6e9a5788a6fecd13c8a78c212757c89fa557de8eca8026d254",
+    "file": "14146cc6a09f6fb435f38395b625fa4f2eb1cbcac9c9282810b632529cc91a96.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-time@3.1.0/es2022/d3-time.mjs": {
+    "url": "https://esm.sh/d3-time@3.1.0/es2022/d3-time.mjs",
+    "response_url": "https://esm.sh/d3-time@3.1.0/es2022/d3-time.mjs",
+    "bytes": 5804,
+    "sha256": "3f547d8c511497abd31abb2910acee4ab6342e7e5d4fe8194c3d439ca1a4c443",
+    "file": "3bba8be12fbfb97cbc51b0d189ec149f92ff194a1133454f77af9fd66ebba189.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatDecimal.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatDecimal.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatDecimal.mjs",
+    "bytes": 426,
+    "sha256": "8a6d1dfd1af5066b1611853335ed5867e0f643c6702cbfeacb9594337e2c02f4",
+    "file": "66fde9386344071d3ebc5ef455dda35bd96aaef35c57e83a5ec2f38b3765d3c2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-format@3.1.2/es2022/src/formatRounded.mjs": {
+    "url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatRounded.mjs",
+    "response_url": "https://esm.sh/d3-format@3.1.2/es2022/src/formatRounded.mjs",
+    "bytes": 358,
+    "sha256": "bfdab8a38e279628e5a9b98070d43f42e01f0f6f644038df91a35018f9e83034",
+    "file": "e15fe482299eef091cc8fa1883d1f8054134a812564c03c1baf35c4e0fd1f39a.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-path@3.1.0/es2022/d3-path.mjs": {
+    "url": "https://esm.sh/d3-path@3.1.0/es2022/d3-path.mjs",
+    "response_url": "https://esm.sh/d3-path@3.1.0/es2022/d3-path.mjs",
+    "bytes": 2202,
+    "sha256": "d79581e49a2f7dc620bfc74299b070d858b012456752da7f12315202a4ba7184",
+    "file": "e2195c102436acc3ac386f76796191d236afc0b1bf4bb7f22d9ae371c5f7efa0.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/node/async_hooks.mjs": {
+    "url": "https://esm.sh/node/async_hooks.mjs",
+    "response_url": "https://esm.sh/node/async_hooks.mjs",
+    "bytes": 2938,
+    "sha256": "b7862dbfba8bbbca956f19e4e08280b529e4b27468779775a9093aef8c92dc1d",
+    "file": "5a6b2a422712fc8f3fd5ff5710371ee775c8e6eb6e8b1eaa90905341c2eb9b4b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-statistics-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-statistics-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-statistics-internal.mjs",
+    "bytes": 300,
+    "sha256": "0d7617f1800f4e8fcdb77e258350a33cef356972088c2c41e27737f6dc358283",
+    "file": "d87630d1b05557c79260e149ea44b9704ede79cfad5e65eba892ab6811ba98b3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/interaction.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/interaction.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/interaction.mjs",
+    "bytes": 2309,
+    "sha256": "969fd43bccd605a6a08a477dc8af8d19cc8c6e8a627476058436a5fc6cee58c4",
+    "file": "98c92374bd4c155eb82fc73967ebd3dc5b55c74a919694656e61e31518e99eb7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/composite-motion-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/composite-motion-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/composite-motion-internal.mjs",
+    "bytes": 702,
+    "sha256": "8540ded773d4d8955d79dfbba19f2676e640f65d4b69529b7f411574df26c11a",
+    "file": "75fcb3d1026c794e69d9c4b5a6036ccfb9e5ce1f960597e9eb072b47928c9e32.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus/disabled.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus/disabled.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus/disabled.mjs",
+    "bytes": 172,
+    "sha256": "5a962d5a1b3a7c7bae89a7bd75ff9d5529162783b3f9916961d36a34c0a0d534",
+    "file": "47fb76c95cd16e4207026c83115b049490d3357bc90e128ce94c549000b4e120.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/cursor-host-contract.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/cursor-host-contract.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/cursor-host-contract.mjs",
+    "bytes": 321,
+    "sha256": "639da092036afb6570db7408ecf1e5ddac3f3854abf72550c0b5388895032340",
+    "file": "cab8cfc15127b602c56ca132641d5a404ef37fbd8ccb1d0b6a5c09ce509417d2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-child-id-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-child-id-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-child-id-internal.mjs",
+    "bytes": 212,
+    "sha256": "5266b748f474cf49fcd4d70a563d1f750dc108c78d6e5ac2ae63a789a60e2358",
+    "file": "ffaacce9d2527a61994386ae2c89619f712aba9ce039d44db45f256c6c99cb6e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/transform-internal.mjs",
+    "bytes": 1372,
+    "sha256": "f36791f0034322cd6ad80f6cb2224d7fcd107e2bcf14e72b3e68dc61ff790a4b",
+    "file": "af1a6e38c04816a6f956cbf70a694a3e0b361462a59b2d2a42db34faacf74543.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/d3-color@3.1.0/es2022/d3-color.mjs": {
+    "url": "https://esm.sh/d3-color@3.1.0/es2022/d3-color.mjs",
+    "response_url": "https://esm.sh/d3-color@3.1.0/es2022/d3-color.mjs",
+    "bytes": 10259,
+    "sha256": "2e852a0327b74fbcf7cafd66913833423b736b8bf2e163801e74cee61624073a",
+    "file": "18a083d510fd5577eb4a2fe44dedd2c1ec50b0ad9aa09ce6d0c1bc9e0f8e5a42.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/runtime.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/runtime.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/runtime.mjs",
+    "bytes": 567,
+    "sha256": "f9fe5e52124816481dce45742d099e0f2f272f8bef74d42345d12c0afa687f38",
+    "file": "f3d7ef9563659863f4937b588d1ab4028b8daa51efdcf8135137d7ab2aed0aeb.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/arrow-geometry.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/arrow-geometry.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/arrow-geometry.mjs",
+    "bytes": 631,
+    "sha256": "0d6a1880feda5beb7b5326886932e88f76140c55a0fdac35a9ebc4bd3dce7ff2",
+    "file": "5a80c8b798f3953149ca09b32a876d292b5e5dc5a562fc47ec70975abcc75f8f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/renderer.mjs",
+    "bytes": 17472,
+    "sha256": "aba4f1931bf09cc46970b93a11868761fb04d89e2ccdbb06f4c1c4568f147b28",
+    "file": "aed77c294ba0bcc384da64cdc014ab320b569a02769f501fcd6487491b7b959d.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-presentation.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-presentation.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-presentation.mjs",
+    "bytes": 257,
+    "sha256": "ab1cbe1b30acbdd39347bffb63363035ae2248b93bc5b2468f9add26257ebbde",
+    "file": "a0557e4aa68b5ad822910b62b1d92c34309409a200ea66613ce3042661641507.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/markup-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/markup-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/markup-internal.mjs",
+    "bytes": 465,
+    "sha256": "88418672b6c7734f3ca990c854a36af4eecef3fe5f374dfbfef5e36b74f75e32",
+    "file": "4122d61c278b4bba8601ef0fa15c186f67b6da7f270e2679140cee2938b86ed0.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark-state.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark-state.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark-state.mjs",
+    "bytes": 3125,
+    "sha256": "e26c46802def390d99918d048e9dca440a23bbacfd0c6fbe874639f1f5b5390c",
+    "file": "dccdf80feb462696c4fd5cd249a714ed6c647624d0cd82aa18ab542973c52412.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-layer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-layer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-layer.mjs",
+    "bytes": 4151,
+    "sha256": "b05385fb4cca154b3a8fa4eb2b7b64e0dcc4eef32b2da70d2fc04dd40225ac5e",
+    "file": "c7de1c5547e2cfdf896ec1d3129cbfe329c3555f15e44fb312c5ddc4a1e5d12f.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark-state-transition.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark-state-transition.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark-state-transition.mjs",
+    "bytes": 348,
+    "sha256": "21c5360640ccd1e71a4a6bc63c37e6ad05d59bf2698f7fadf3362e32da7ae15c",
+    "file": "17aa222353b61f58f246a8983413160b0ab6efdbad144e1e2a66047a115729c2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/mark/scale-values.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/mark/scale-values.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/mark/scale-values.mjs",
+    "bytes": 414,
+    "sha256": "277bb8491466ba1a62def78b48bb9fac633fc827e89ede0413c969cb1233908e",
+    "file": "b908a47b67d4f39477b1f7f3cdc725c14c2a5ac387751074338a3ce6da6346c3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/renderer/rect.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/renderer/rect.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/renderer/rect.mjs",
+    "bytes": 1024,
+    "sha256": "e16b3aef913ce2db11af473627eadd6ee5560aa08ab0932b280741b03385b163",
+    "file": "48cdc94140a641d00307fecd12246a69d04fac5cf887c1ad9a2f8384a4fefda7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/renderer/rect.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/renderer/rect.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/renderer/rect.mjs",
+    "bytes": 1024,
+    "sha256": "e16b3aef913ce2db11af473627eadd6ee5560aa08ab0932b280741b03385b163",
+    "file": "d318f6c8466adecfc94623b07fb010107b7aa3a6cc00d109a8e499092b6e0077.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/materialized-channel-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/materialized-channel-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/materialized-channel-internal.mjs",
+    "bytes": 352,
+    "sha256": "9b89d49d139eb68166e73dc8e78537d22202cdb892f172ce189611da5c1c59b7",
+    "file": "935e39af82b6130240faefc33bf4b5f047a7e0f998a8f3ab789e06e92ef17775.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/default-focus-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/default-focus-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/default-focus-internal.mjs",
+    "bytes": 317,
+    "sha256": "86405eba8404bcb9d874a2cf41535e9f0ced5a25977bbf98cd481b4dc09c542c",
+    "file": "2c72c5f197f5add3902a4d8e4e540d35e5b443184a6051eb92f2dd6fed1c0e02.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-source.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-source.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-source.mjs",
+    "bytes": 163,
+    "sha256": "97c78e557839d5ad5a2bff2eab4ff9c16bb7aa811144e305919e06e0da652f28",
+    "file": "55d8ab40069bf9a65aaba610e1cfa6a7321d81c3d73be6dc1d4f7190747f6ded.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-point-map.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-point-map.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/dist/scene-point-map.mjs",
+    "bytes": 682,
+    "sha256": "13bc1c77c5aefe46db54b761a1fb2fa106d2b4a6b72f873f54dc33540892c495",
+    "file": "3cf3bbfd7059ed06733c60de3bcdbe900b29fb6d7652701f1b2effdf7a308b42.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/reconcile.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/reconcile.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/reconcile.mjs",
+    "bytes": 4292,
+    "sha256": "ffacb31df22ed6f1056b2fcca7584806576934a1fe3b6fd74c75440aa42c0bc8",
+    "file": "2a1f83bfa285e3b78bbe0f80112d03dd892bc121796db60611865ec66f565a16.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-render-context-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-render-context-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-render-context-internal.mjs",
+    "bytes": 327,
+    "sha256": "6180bd729fd2b7b0a97bfde6bcf1d7e2b44cf11acc10e12739c73d806f8381b0",
+    "file": "6f1eb4a50ea04d87a1c5c86579a84929bb5953bd21cd009abd6b89f0080024ca.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-point-map.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-point-map.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-point-map.mjs",
+    "bytes": 682,
+    "sha256": "13bc1c77c5aefe46db54b761a1fb2fa106d2b4a6b72f873f54dc33540892c495",
+    "file": "608241c80b80d99e45fdbb2e725165975ddd6e489ae562035ac7ab6f6d2e86dc.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/default-focus-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/default-focus-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/default-focus-internal.mjs",
+    "bytes": 317,
+    "sha256": "86405eba8404bcb9d874a2cf41535e9f0ced5a25977bbf98cd481b4dc09c542c",
+    "file": "555329a3254b150f149d11f6284d985b5efa702e4a26447b48372af7d23472e8.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-coordinates.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-coordinates.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-coordinates.mjs",
+    "bytes": 454,
+    "sha256": "c3bd529ece0ccb7e82de71d8af41b844a2760d594d56265d259d3f2fdd990bf4",
+    "file": "1ca63fdeec5c381450e07e5144147cfeb86d44abc8c1b61f1a032b3b109aaf77.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-renderer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-renderer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-renderer.mjs",
+    "bytes": 4375,
+    "sha256": "d8bfee1a35b0e06d9897f2b3ccfe1392915747b95ed8589a4b9eb2b5f2180d80",
+    "file": "25a03af91dddf233d9256241c23e987914c2ed2645c3310234de35fb24330c8e.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-focus-guide-layer.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-focus-guide-layer.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/svg-focus-guide-layer.mjs",
+    "bytes": 1253,
+    "sha256": "5105eae9b74d9ff324a453d0cd79eb8ff3808dc8f0dd533c172be1e6214a7b75",
+    "file": "516e5dfa62981253f572cfe182e76619c2a9b97b650cdbe332fed0b979fa62d7.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/adapter-shared.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/adapter-shared.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/adapter-shared.mjs",
+    "bytes": 490,
+    "sha256": "8082b95ac1b3edc9de3923be9be5cff73c38b9ac97f9ce03efe49fa873d86c04",
+    "file": "7abad723fd4e684e34e33f81f0d7a8c7904aab8c120308678ef58a195bc79ec2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/es2022/focus.mjs",
+    "bytes": 1113,
+    "sha256": "a8f932abb36a7358d26f914a4ee90c7866af0118afad77b98cdeb5f080c6b9b2",
+    "file": "088aa8e54abf19034d3dc945032cf3922aa2ad99a89db8018be02cb336041be3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/scene.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/scene.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/scene.mjs",
+    "bytes": 23141,
+    "sha256": "b67abc4f22f87652f89c4ef01b14dc06fd685be92a2eed9f36c63e0dd05212ba",
+    "file": "358994b191373190fea118a7bd17af7e1b8cf30816cb8ea2da19c52153e13c64.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/focus/disabled.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/focus/disabled.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/focus/disabled.mjs",
+    "bytes": 172,
+    "sha256": "5a962d5a1b3a7c7bae89a7bd75ff9d5529162783b3f9916961d36a34c0a0d534",
+    "file": "1969f29757b0bbffc4161be85aa513334e82b3e75b5ca5a8922c386e60602667.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/guide-layout.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/guide-layout.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/guide-layout.mjs",
+    "bytes": 3516,
+    "sha256": "b72ededce2deda327f09ca96408d4da049a28b960e7f90f725781692efe1ee7a",
+    "file": "944da41a2e643a66c2a71b0b30498240ddb07d1a846f0956ac704fcfd6fad75b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scales.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scales.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scales.mjs",
+    "bytes": 2862,
+    "sha256": "b67d323ecc148e2257b1cf0d910648e68b2f91dcf2da055ffd931c782cc26c66",
+    "file": "20c9e24ed553a30c3628b1de33e63093f671f9f4cccb8b71cb6289abc3f37ef3.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/interaction.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/interaction.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/interaction.mjs",
+    "bytes": 2309,
+    "sha256": "969fd43bccd605a6a08a477dc8af8d19cc8c6e8a627476058436a5fc6cee58c4",
+    "file": "76b103df24db7e099536ef131337d128b83511d7feb523e80c7a34b257810583.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-point-ownership-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-point-ownership-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-point-ownership-internal.mjs",
+    "bytes": 1599,
+    "sha256": "6685893c9e1d30730526ce9418b9126b14784a6e9efcacf73b6fc3f035bba1e1",
+    "file": "8e39070c3cb5c91edb9351193e43f2f1a5fc9c0a6bd62efe2be18115366725fe.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/cursor-host-contract.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/cursor-host-contract.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/cursor-host-contract.mjs",
+    "bytes": 321,
+    "sha256": "639da092036afb6570db7408ecf1e5ddac3f3854abf72550c0b5388895032340",
+    "file": "28971a28cc4bfcc9b0e94398fb77cd9a04e574dae17a39a054707e3f598790c2.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/nearest.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/nearest.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/nearest.mjs",
+    "bytes": 7314,
+    "sha256": "fec2b3467455065db342072ac49e805a62591875a05274f585d5556da4f03346",
+    "file": "03cb1796fb6ad20bed068056e524204b3cd06bbcf4c081bb6427b6d4497abaff.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-coordinate-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-coordinate-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/focus-coordinate-internal.mjs",
+    "bytes": 309,
+    "sha256": "24bcb1c89c0983a1c0854e7de03942efb3bc627056acd7d552ced8d577f4834c",
+    "file": "cee1973ca89537031372a74b10eca7f0cec09a4e2306c88cae61ea1988785dfd.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scale-input.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scale-input.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scale-input.mjs",
+    "bytes": 2425,
+    "sha256": "d343c4827b75ad50b04eae286474eab2bc29be3a9198dc6e63da64b879c5baf9",
+    "file": "9591897a571667c8bc4fb13c564b420bf03143ff5dfbd55777bc1997cb71f82d.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/materialized-channel-internal.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/materialized-channel-internal.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/materialized-channel-internal.mjs",
+    "bytes": 352,
+    "sha256": "9b89d49d139eb68166e73dc8e78537d22202cdb892f172ce189611da5c1c59b7",
+    "file": "f7f3550d110dfb79689400c1de9ca36a514be38d0b5d358d2ddecff6f1bba08a.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-source.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-source.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/scene-source.mjs",
+    "bytes": 163,
+    "sha256": "97c78e557839d5ad5a2bff2eab4ff9c16bb7aa811144e305919e06e0da652f28",
+    "file": "6a89a8f57a9f61a4e5af943ec7256e7839c6016ee524bfa8a7ffd961fea92136.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/focus.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/focus.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/focus.mjs",
+    "bytes": 1113,
+    "sha256": "a8f932abb36a7358d26f914a4ee90c7866af0118afad77b98cdeb5f080c6b9b2",
+    "file": "3118b7904d1375cd79488bbaaafb319ee8c21b0c715b6df4a144c49bdd842b71.js",
+    "content_type": "application/javascript; charset=utf-8"
+  },
+  "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark.mjs": {
+    "url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark.mjs",
+    "response_url": "https://esm.sh/@tanstack/charts@1.1.0/X-ZXJlYWN0LHJlYWN0LWRvbQ/es2022/dist/mark.mjs",
+    "bytes": 2572,
+    "sha256": "685f270cdb0b1fa6a20422f358cf7f23ac4aa3a74d99c534fbc4de08669e4494",
+    "file": "30742b02ae9ae5e997fdb72f8c997b0e9fe65822ff802133d6cb72d39d99724b.js",
+    "content_type": "application/javascript; charset=utf-8"
+  }
+}

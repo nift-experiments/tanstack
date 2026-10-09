@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/mark/scale-values */
+import{applyMarkRenderer as e,normalizeMarkInitialization as z}from"../dist/mark.mjs";function d(n,i,a){return{initialize:l=>{let t=z(n(l)),o=i===void 0||t.motion!==void 0?t:{...t,motion:i};return a===void 0?o:e(o,a)},...i===void 0?{}:{motion:i},...a===void 0?{}:{renderer:a}}}export{d as createMarkWithScaleValues};
+//# sourceMappingURL=scale-values.mjs.map

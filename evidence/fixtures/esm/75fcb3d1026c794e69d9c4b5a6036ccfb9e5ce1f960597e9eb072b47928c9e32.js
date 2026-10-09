@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/composite-motion-internal */
+function i(o,t){return typeof o=="function"?o(t):o}function u(o,t,e){let r;for(let n of t.keys())(e.markId===n||e.markId?.startsWith(`${n}:`))&&(!r||n.length>r.length)&&(r=n);return s(i(o,e),r?i(t.get(r),e):void 0)}function s(o,t){if(t===!1)return!1;if(t===void 0)return o;if(o===!1||o===void 0)return t;let e=t.path??o.path;return{delay:t.delay??o.delay,...e===void 0?{}:{path:e},transition:f(o.transition,t.transition)}}function f(o,t){return o?t?o.type===t.type?{...o,...t}:t:o:t}export{s as mergeCompositeMotion,u as resolveCompositeChildMotion,i as resolveCompositeMotion};
+//# sourceMappingURL=composite-motion-internal.mjs.map

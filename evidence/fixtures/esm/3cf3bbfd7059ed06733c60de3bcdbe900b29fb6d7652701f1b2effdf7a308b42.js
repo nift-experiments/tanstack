@@ -1,0 +1,3 @@
+/* esm.sh - @tanstack/charts@1.1.0/dist/scene-point-map */
+function n(r,i){return["x","y"].some(t=>(r.scales[t]?.viewport?.translate??0)!==(i.scales[t]?.viewport?.translate??0))}function s(r,i){return r.map(t=>t.kind==="group"?{...t,children:s(t.children,i),...t.focus?{focus:{...t.focus,points:t.focus.points.map(i)}}:{},...t.states?{states:{...t.states,points:t.states.points.map(i)}}:{}}:t.kind==="label"||!t.interaction?t:{...t,interaction:t.interaction.point?{...t.interaction,point:i(t.interaction.point)}:{...t.interaction,points:t.interaction.points.map(i)}})}export{s as mapScenePointReferences,n as viewportTranslationChanged};
+//# sourceMappingURL=scene-point-map.mjs.map
